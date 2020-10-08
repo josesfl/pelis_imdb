@@ -1,0 +1,43 @@
+
+body{
+  background-image: url('https://genotipia.com/wp-content/uploads/2020/04/Netflix-Background-prueba-1.jpg');
+}
+.pelicula_card_overview{
+    height: 150px;
+    overflow: hidden;
+}
+
+
+
+.card img{
+    height: 400px;
+    background-size: cover;
+}
+
+.btn{
+  background-color: #95a5a6;
+  border-radius: 8px;
+  border-color: #95a5a6;
+}
+.boton_atras{
+  color: white;
+  margin-top: 5px;
+}
+ul li{
+			margin-left: 30px;
+			margin-top: 7px;
+		}
+#over{
+  color: black;
+  font-weight: 600;
+  background-color:#ecf0f1;
+  border-radius: 7px;
+  padding: 20px;
+
+}
+.img-responsive{
+  align-self: auto;
+}
+#titl{
+  color: white;
+}
